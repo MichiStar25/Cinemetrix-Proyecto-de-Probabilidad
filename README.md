@@ -3,7 +3,7 @@ Documentos, Script, archivos
 
 Descripción de los datos:
 
-1. En el documento "Descripción de datos" se explica cada una de las valiables, el tipo de dato y como queremos trabajar con ellas
+1. En el documento "Descripción de datos" se explica cada una de las valiables, el tipo de dato y como queremos trabajar con ellas.
 
 Análisis descriptivo
 
