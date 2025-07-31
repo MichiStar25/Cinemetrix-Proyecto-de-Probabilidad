@@ -1,11 +1,11 @@
 # Cinemetrix-Proyecto-de-Probabilidad
 Documentos, Script, archivos
 
-Descripción de los datos:
+I. Descripción de los datos:
 
 1. En el documento "Descripción de datos" se explica cada una de las variables, el tipo de dato y como queremos trabajar con ellas.
 
-Análisis descriptivo
+II. Análisis descriptivo
 
 En la carpeta de "tmdb_sql_pack_desde_cero" se encuentran los siguientes elementos:
 1. Un txt llamado "progreso" en el cual se define lo que se hizo para obtener la base de datos 
@@ -24,9 +24,12 @@ En la carpeta "base_de_datos_limpia_y_procesada" se encuentra lo siguiente
 5. Aparece en txt "Instrucciones para pasar sql a csv" que explica lo que lleva como titulo
 6. Y de ultimo está el CSV resultante de la expertación de la base de datos desde el mismo MySQL Workbench llamado "Base_de_datos_peliculas"
 
-Análisis Estocásticos
+III. Análisis Estocásticos
 
 Y a continuación están los análisis, gráficos y scripts del análisis estocástico de todo el proyecto:
 
 https://colab.research.google.com/drive/1YUmL-9pPPwZL8Xg2OAwCn2o2slC48ErL?usp=sharing
 1. En la carpeta de "Análisis Estocástico" se guardo la explicación de cada una de las graficas y los analisis finales de los resultados del modelo predictivo del problema planteado, es el archivo llamado "Explicación del Análisis"
+
+IV. Documentos del Proyecto
+En esta carpeta esta la propuesta, los avances y el reporte del proyecto, tambien posee el pdf del story telling
