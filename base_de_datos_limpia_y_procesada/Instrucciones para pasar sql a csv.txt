@@ -1,7 +1,0 @@
-Como pasar la base de datos "Cinemetrix" a un archivo .CSV
-En el caso de utilizar MySQL Workbench 8.0, realizar lo siguiente:
-1. Abrir la base de datos "Cinemetrix.sql"
-2. Ejecuta la base de datos, de manera sencilla solo presionar las siguientes teclas, ctrl + shift + enter, y esta se comenzara a ejecutar
-3. Dependiendo de la cantidad de datos, en este caso 40k, pueden tardan de 4 a 5 min en ejecutarse
-4. Luego de tener todos los datos, abre el archivo "lectura_de_datos.sql" y ejecútalo 
-5. Cuando ya tenga las tabla de dichos datos, en la parte superior de la tabla aparece una cinta de opciones de edición, allí­ aparece una opción Export/Import: 💾(Exportar) 📤📂‚(Importar), presionas la opción de exportar asegurándote de que el archivo se guarde en .CSV

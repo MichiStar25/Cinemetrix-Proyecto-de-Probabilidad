@@ -1,1 +1,0 @@
-SELECT * FROM Peliculas LIMIT 40000;
